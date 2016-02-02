@@ -2637,6 +2637,7 @@
 		.wrapper.style1 {
 			background-color: #21b2a6;
 			color: #303841;
+      opacity: 0.9;
 		}
 
     .wrapper.style1 a:hover {
@@ -3719,7 +3720,7 @@
 			}
 
 				#footer .icons a:hover {
-					color: #19A596;
+					color: #21b2a6;
 				}
 
 		#footer .copyright {
