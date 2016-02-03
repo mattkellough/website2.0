@@ -1,4 +1,4 @@
 # website2.0
 
-Used HTML5, CSS
-Found templates for java and used them.
+My first website ever created. I used Java and HTML5 for this project.
+I founf templates for java and used them.
